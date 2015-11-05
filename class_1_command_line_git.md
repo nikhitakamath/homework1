@@ -2,7 +2,7 @@
 / : This symbol means "root", the ultimate parent directory.
 whoami : This makes the terminal output the current user name.
 pwd : This shows you where you currently are in your system
-cd : This is a command that allows you to change to a directory, you type which directory you want to change to after it
+cd : This is a command that changes your life.
 ls : This is a command that lists what is in the current directory that you are in
 cd .. : This is a command that allows you to go to the directory above the one you're currently in
 mkdir : This is a command that creates a new directory in the directory you're currently in
